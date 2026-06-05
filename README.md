@@ -19,14 +19,13 @@ The robot is composed of four main layers:
 
 ## 📁 Repository Structure
 
-docs/ → Project documentation and system design
-mechanics/ → Mechanical CAD files and manufacturing data
-electronics/ → Schematics, PCB designs, and wiring
-firmware/ → Embedded code (ESP32 / Arduino)
-ros/ → ROS workspace (URDF, nodes, launch files)
-tools/ → Development and automation scripts
-tests/ → Hardware, firmware, and ROS tests
-
+- docs/ → Project documentation and system design
+- mechanics/ → Mechanical CAD files and manufacturing data
+- electronics/ → Schematics, PCB designs, and wiring
+- firmware/ → Embedded code (ESP32 / Arduino)
+- ros/ → ROS workspace (URDF, nodes, launch files)
+- tools/ → Development and automation scripts
+- tests/ → Hardware, firmware, and ROS tests
 
 
 ---
